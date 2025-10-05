@@ -16,3 +16,6 @@ Inheritance
 Polymorphism
 Encapsulation
 Method Overriding
+
+   OUTPUTS:-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a2619031-845e-42cd-bcad-f4842e4f0662" />
