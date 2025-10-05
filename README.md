@@ -17,9 +17,7 @@ Polymorphism
 Encapsulation
 Method Overriding
 
-OUTPUT 1:- 
+OUTPUT :- 
 <img width="1366" height="379" alt="Output1" src="https://github.com/user-attachments/assets/60bdce94-ed5a-42fa-b245-7c916c751382" />
 
-
-   OUTPUTS 2:-
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a2619031-845e-42cd-bcad-f4842e4f0662" />
